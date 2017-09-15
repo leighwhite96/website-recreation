@@ -30,7 +30,7 @@ h1 {
   background-color: black;
   opacity: 0.6;
   width: 500px;
-  height: 400%;
+  height: 500%;
   position: absolute;
   top: 0;
   right: 0;
@@ -40,7 +40,7 @@ h1 {
   background-color: #edef88;
   opacity: 0.95;
   width: 500px;
-  height: 135%;
+  height: 150%;
   position: absolute;
   top: 0px;
   right: 150px;
@@ -81,7 +81,7 @@ h1 {
   background-color: #fc1452;
   opacity: 0.9;
   width: 550px;
-  height: 82%;
+  height: 87%;
   position: absolute;
   top: 1400px;
   right: 200px;
@@ -95,13 +95,14 @@ h1 {
   background-color: white;
   opacity: 0.9;
   width: 900px;
-  height: 110%;
+  height: 120%;
   position: absolute;
   top: 2091px;
   right: 200px;
   font-family: Encode Sans Condensed;
   font-size: 18px;
   padding-left: 40px;
+  z-index: 1;
 }
 
 #head2 {
@@ -116,7 +117,7 @@ h1 {
   position: absolute;
   top: 2200px;
   font-family: Encode Sans Condensed;
-  font-size: 18px;
+  font-size: 17px;
   padding-left: 40px;
-  left: 173px;
+  left: 53px;
 }
