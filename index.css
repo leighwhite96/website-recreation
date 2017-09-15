@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed');
+
+
+body {
+  background-color: #63cdd8;
+  border: 80px solid #d7f7f3;
+  margin: 0;
+
+}
+
+
+.maindiv1 {
+  margin-top: 10%;
+  margin-left: 10%;
+  color: white;
+  font-family: Encode Sans Condensed;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+h1 {
+  font-family:  sans-serif;
+  font-weight: 800;
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+#black {
+  background-color: black;
+  opacity: 0.6;
+  width: 500px;
+  height: 400%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#yellow {
+  background-color: #edef88;
+  opacity: 0.95;
+  width: 500px;
+  height: 135%;
+  position: absolute;
+  top: 0px;
+  right: 150px;
+  color: black;
+  text-align: center;
+  line-height: 50px;
+  font-size: 18px;
+}
+
+.yh {
+  font-size: 50px;
+}
+
+#white {
+  background-color: white;
+  opacity: 0.9;
+  width: 800px;
+  height: 55%;
+  position: absolute;
+  top: 900px;
+  left: 0;
+  font-family: Encode Sans Condensed;
+  font-size: 22px;
+  padding-left: 40px;
+
+}
+
+#text {
+  color: white;
+  font-family: Encode Sans Condensed;
+  font-size: 24px;
+  padding-left: 90px;
+  width: 700px;
+  text-align: left;
+}
+
+#red {
+  background-color: #fc1452;
+  opacity: 0.9;
+  width: 550px;
+  height: 82%;
+  position: absolute;
+  top: 1400px;
+  right: 200px;
+  color: white;
+  font-family: Encode Sans Condensed;
+  font-size: 23px;
+  padding-left: 50px;
+}
+
+#w1 {
+  background-color: white;
+  opacity: 0.9;
+  width: 900px;
+  height: 110%;
+  position: absolute;
+  top: 2091px;
+  right: 200px;
+  font-family: Encode Sans Condensed;
+  font-size: 18px;
+  padding-left: 40px;
+}
+
+#head2 {
+  font-size: 40px;
+}
+
+#w2 {
+  background-color: white;
+  opacity: 0.9;
+  width: 335px;
+  height: 550px;
+  position: absolute;
+  top: 2200px;
+  font-family: Encode Sans Condensed;
+  font-size: 18px;
+  padding-left: 40px;
+  left: 173px;
+}
